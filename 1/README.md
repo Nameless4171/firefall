@@ -25,6 +25,7 @@ def BirthdayAtk(n):
             break
         else:
             note[cmp] = strlst #否则将其写入字典
-
+```
 最终得到16bit的结果：
+<img width="499" alt="pic" src="https://user-images.githubusercontent.com/105547492/181917677-9965960a-eab7-4141-b451-4204887f1f60.png">
 
