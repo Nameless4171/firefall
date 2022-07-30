@@ -39,4 +39,5 @@ def RhoAtk(n):
 ```
 代码可以直接运行。
 最终得到16bit的结果：
+<img width="1127" alt="pic" src="https://user-images.githubusercontent.com/105547492/181917923-9f0941be-042f-427e-9a94-5853b333d5c9.png">
 
