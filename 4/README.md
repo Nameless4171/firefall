@@ -1,6 +1,6 @@
 
 
-#### 2. sm3 merkle树
+#### 4. sm3 merkle树
 
 sm3代码取自gmssl
 https://github.com/gongxian-ding/gmssl-python
@@ -32,4 +32,5 @@ def generation(msg):
     return ret
 ```
 代码可以直接运行。
+<img width="1129" alt="pic" src="https://user-images.githubusercontent.com/105547492/181918306-bca91d17-920c-4b7e-861a-947490a64e9e.png">
 
